@@ -17,8 +17,7 @@ This Angular project provides a robust implementation of authentication using Op
 
 ### Installation
 1. Clone the repository: git clone https://github.com/santagatiivan/Angular-SSO-OAuth2-OIDC.git
-2. Install dependencies: cd <project-name>
-                         npm install
+2. Install dependencies: `cd <project-name>` and than `npm install`
 
 ## Detailed Code Functionality
 
@@ -53,7 +52,7 @@ These files provide configuration settings for different aspects of the applicat
 2. Configure route guards as needed in `app-routing.module.ts`.
 
 ### Running the Application
-1. Start the Angular development server: ng serve
+1. Start the Angular development server: `ng serve`
 2. Open `http://localhost:4200/` in your browser.
 
 ## Contributing
